@@ -197,7 +197,7 @@ animation-delay: 1s;
   padding: 50px;
   align-items: center;
   display: inline-block;
- 
+  background-image: url('../img/nen6.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
